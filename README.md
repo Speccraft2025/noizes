@@ -14,14 +14,14 @@ A beautiful white noise & ambient sound generator for focus, relaxation, and bet
 
 ## 🚀 Getting Started
 
-Simply open `dev/index.html` in any modern browser. No build step required!
+Simply open `index.html` in any modern browser. No build step required!
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/noizes.git
+git clone https://github.com/Speccraft2025/noizes.git
 
 # Open in browser
-open dev/index.html
+open index.html
 ```
 
 ## 🛠️ Tech Stack
@@ -35,10 +35,9 @@ open dev/index.html
 
 ```
 noizes/
-├── dev/
-│   ├── index.html    # Main HTML file
-│   ├── styles.css    # All styling
-│   └── app.js        # Audio & interactivity
+├── index.html    # Main HTML file
+├── styles.css    # All styling
+├── app.js        # Audio & interactivity
 └── README.md
 ```
 
